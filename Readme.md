@@ -3,7 +3,6 @@ Site em questão: https://lucasalexandrevasconcellos.github.io/LandingPage/
 
 ## site feito com tecnologias como:
 
-## -HMTL
 <img 
     align="left" 
     alt="HTML"
@@ -12,7 +11,7 @@ Site em questão: https://lucasalexandrevasconcellos.github.io/LandingPage/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
     />
-## -CSS
+## -HMTL
 
 <img 
     align="left" 
@@ -22,7 +21,7 @@ Site em questão: https://lucasalexandrevasconcellos.github.io/LandingPage/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
-## -JavaScript
+## -CSS
 
 <img 
     align="left" 
@@ -32,7 +31,8 @@ Site em questão: https://lucasalexandrevasconcellos.github.io/LandingPage/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-## -JQUERY
+## -JavaScript
+
 <img 
     align="left" 
     alt="JQuery" 
@@ -41,3 +41,5 @@ Site em questão: https://lucasalexandrevasconcellos.github.io/LandingPage/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+## -JQUERY
+
